@@ -8,5 +8,5 @@ Result: [Here](https://asgherali.github.io/Project0/)
 
 
 #List of all the assignments:
-00 - (Link)(https://github.com/AsgherAli/Project0]
-01 - (Link)[https://github.com/AsgherAli/Project1]
+- 00 - [Link](https://github.com/AsgherAli/Project0]
+- 01 - [Link](https://github.com/AsgherAli/Project1)
