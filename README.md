@@ -1,4 +1,4 @@
-**CS50w Certificate Coming Soon**
+<h1>CS50w Certificate Coming Soon</h1>
 
 Objective: Design a front-end for Google Search, Google Image Search, and Google Advanced Search.
 
