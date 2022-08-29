@@ -1,4 +1,4 @@
-<h1>CS50w Certificate [applied, pending..]</h1>
+<h1>CS50w Certificate [applied, [pending](https://user-images.githubusercontent.com/35127781/187207863-c69cbc62-6d99-4860-b38f-5463531c80b0.png)..]</h1>
 
 Objective: Design a front-end for Google Search, Google Image Search, and Google Advanced Search.
 
